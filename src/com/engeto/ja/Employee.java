@@ -8,11 +8,11 @@ public class Employee {
     private String name;
     private LocalDate birthdate;
     private int contracts;
-    private BigDecimal carrotsWeight;
+    private int carrotsWeight;
     private String city;
     private String spzNumber;
-    private BigDecimal consumption;
-    private int ipAddress;
+    private int consumption;
+    private String ipAddress;
 
     public String getName() {
         return name;
@@ -38,11 +38,11 @@ public class Employee {
         this.contracts = contracts;
     }
 
-    public BigDecimal getCarrotsWeight() {
+    public int getCarrotsWeight() {
         return carrotsWeight;
     }
 
-    public void setCarrotsWeight(BigDecimal carrotsWeight) {
+    public void setCarrotsWeight(int carrotsWeight) {
         this.carrotsWeight = carrotsWeight;
     }
 
@@ -62,22 +62,22 @@ public class Employee {
         this.spzNumber = spzNumber;
     }
 
-    public BigDecimal getConsumption() {
+    public int getConsumption() {
         return consumption;
     }
 
-    public void setConsumption(BigDecimal consumption) {
+    public void setConsumption() {
         this.consumption = consumption;
     }
 
-    public int getIpAddress() {
+    public String getIpAddress() {
         return ipAddress;
     }
 
     public Employee(String name, LocalDate birthdate,
-                    int contracts, BigDecimal carrotsWeight,
+                    int contracts, int carrotsWeight,
                     String city, String spzNumber,
-                    BigDecimal consumption, int ipAddress) {
+                    int consumption, String ipAddress) {
         this.name = name;
         this.birthdate = birthdate;
         this.contracts = contracts;
@@ -88,18 +88,11 @@ public class Employee {
         this.ipAddress = ipAddress;
     }
 
-    public void setIpAddress(int ipAddress) {
+    public String setIpAddress(String ipAddress) {
         this.ipAddress = ipAddress;
 
 
-
-
-
-
-
-
-
-
+        return ipAddress;
     }
 }
 
