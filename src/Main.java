@@ -59,13 +59,13 @@ public class Main {
         employeeList.add(employee2);
         employeeList.add(employee3);
         employeeList.add(employee4);
-        System.out.println("Počet zaměstnanců: " + employeeList.size());
+
 
 
         int a = 310;
         int b = 31;
         int result = a / b;
-        System.out.println(result);
+
 
         System.out.println("Průměr prodané mrkve na jednu smlouvu: " + result);
 
