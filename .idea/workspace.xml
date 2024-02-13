@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7835d3f8-7914-4df3-89bc-889772cf1765" name="Changes" comment="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="7835d3f8-7914-4df3-89bc-889772cf1765" name="Changes" comment="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +19,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zenisekm"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="672da9f0-ec9c-4795-9159-7cb071662997" />
+        <option name="url" value="https://github.com/zenisekm/Lekce1DUMrkve.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
@@ -92,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707850543009</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.">
+      <option name="closed" value="true" />
+      <created>1707850615084</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707850615084</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
