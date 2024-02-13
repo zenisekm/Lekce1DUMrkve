@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7835d3f8-7914-4df3-89bc-889772cf1765" name="Changes" comment="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu." />
+    <list default="true" id="7835d3f8-7914-4df3-89bc-889772cf1765" name="Changes" comment="DOKONČENÍ ÚKOLU (MRKVE).&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.&#10;&#10;&#10;(zkouška commitu &lt;nefunguje&gt;)" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +20,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "zenisekm"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;zenisekm&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -112,13 +112,38 @@
       <option name="project" value="LOCAL" />
       <updated>1707850615084</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.">
+      <option name="closed" value="true" />
+      <created>1707850778797</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1707850778797</updated>
+    </task>
+    <task id="LOCAL-00008" summary="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.">
+      <option name="closed" value="true" />
+      <created>1707850854770</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1707850854770</updated>
+    </task>
+    <task id="LOCAL-00009" summary="DOKONČENÍ ÚKOLU (MRKVE).&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.&#10;&#10;&#10;(zkouška commitu &lt;nefunguje&gt;)">
+      <option name="closed" value="true" />
+      <created>1707850963927</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707850963927</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lekce 1, Domácí úkol část 2. Mrkve.&#10;&#10;&#10;Zkouška uploadu na Git, uložení." />
     <MESSAGE value="MRKVE. Vytvoření prodejců.&#10;&#10;&#10;Vytvořeni 4 prodejci, zapsána k nim jejich osobní data." />
     <MESSAGE value="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu." />
-    <option name="LAST_COMMIT_MESSAGE" value="DOKONČENÍ ÚKOLU (MRKVE)&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu." />
+    <MESSAGE value="DOKONČENÍ ÚKOLU (MRKVE).&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.&#10;&#10;&#10;(zkouška commitu &lt;nefunguje&gt;)" />
+    <option name="LAST_COMMIT_MESSAGE" value="DOKONČENÍ ÚKOLU (MRKVE).&#10;&#10;&#10;4 vytvoření prodejci, každý vlastní hodnoty. Vypočítána průměrná hodnota prodaných tun mrkve na jednu smlouvu.&#10;&#10;&#10;(zkouška commitu &lt;nefunguje&gt;)" />
   </component>
 </project>
