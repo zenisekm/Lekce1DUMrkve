@@ -1,7 +1,10 @@
 import com.engeto.ja.Employee;
 
+import java.awt.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 import static java.math.BigDecimal.valueOf;
 
@@ -43,22 +46,42 @@ public class Main {
         Employee employee4 =
                 new Employee("Pavel Pancíř",
                         LocalDate.of(1986,9,14),
-                        2,20,
+                        2,
+                        20,
                         "Jihlava",
                         "3B36565",
                         6,
                         "354.654.652.145");
 
 
+        List<Employee> employeeList = new ArrayList<>();
+        employeeList.add(employee1);
+        employeeList.add(employee2);
+        employeeList.add(employee3);
+        employeeList.add(employee4);
+        System.out.println("Počet zaměstnanců: " + employeeList.size());
 
 
-        employee1.setName("Franta Vopršálek");
-        System.out.println(employee1.getName());
+        int a = 310;
+        int b = 31;
+        int result = a / b;
+        System.out.println(result);
+
+        System.out.println("Průměr prodané mrkve na jednu smlouvu: " + result);
+
+
+
+
+        }
+
+
+
+
 
 
 
 
 
     }
-}
+
 
